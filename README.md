@@ -26,7 +26,7 @@ npm run dev
 `.env`en la raiz del proyecto corresponde a variables de entorno de Node, y su configuración es la siguiente:
 
 # Server Setup:
-URL_MONGO = mongodb+srv://kauel-seguro:gp2tnxlKlsvmuiGN@kauel.ffgo1.mongodb.net/seguro?retryWrites=true&w=majority
+URL_MONGO = 
 PORT = 4000
 SEED = 78964
 CADUCIDAD_TOKEN = 1h
@@ -37,6 +37,14 @@ SALT = 10
 
 `.env/.ent.development`Estan las variables de entorno para el proyecto
 ``` 
+### Usuario/pass prueba
+
+USER= sebastian@kauel.com
+pass= Sebastian123.
+
+### Documentacion Postman
+
+https://documenter.getpostman.com/view/7627839/TW76Cj6d
 
 ## Author
 
